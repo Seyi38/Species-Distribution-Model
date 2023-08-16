@@ -39,4 +39,4 @@ surface, and land elevation, as well as satellite images depicting vegetation co
 5. Digital Elevation Model: https://planetarycomputer.microsoft.com/dataset/cop-dem-glo-30
 6. Sentinel-2 Level-2A: https://planetarycomputer.microsoft.com/dataset/sentinel-2-l2a
 
-***The project consists of three (3) Jupyter notebooks used for Data extraction and preprocessing, EDA and Model building. Note that the notebooks may not load without being downloaded due to size**
+**The project consists of three (3) Jupyter notebooks used for Data extraction and preprocessing, EDA, and Model building. Note that the notebooks may not load without being downloaded due to size.**
